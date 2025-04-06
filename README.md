@@ -2,7 +2,11 @@
 
 A dynamic and interactive quiz application built with HTML, CSS, and JavaScript. Users can select from various quiz categories, answer questions within a time limit, and view their final score and performance.
 
-https://mohamed-gaber53.github.io/Quiz-App/
+## 🎬 Live Demo
+
+🔗 **[Live Demo](https://mohamed-gaber53.github.io/Quiz-App/)**
+
+
 
 ## 📸 Preview
 
