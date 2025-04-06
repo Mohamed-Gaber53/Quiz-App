@@ -1,0 +1,21 @@
+{
+  "title": "JavaScript Quiz",
+  "description": "Test your JavaScript knowledge",
+  "questions": [
+    {
+      "question": "What is the output of the following code?\n\nconsole.log(typeof NaN);",
+      "answers": ["\"undefined\"", "\"object\"", "\"number\"", "\"NaN\""],
+      "correct": "\"number\""
+    },
+    {
+      "question": "Which of the following is a correct way to declare a JavaScript arrow function?",
+      "answers": [
+        "function => myFunc() {}",
+        "const myFunc = => {}",
+        "const myFunc = () => {}",
+        "arrow function myFunc()"
+      ],
+      "correct": "const myFunc = () => {}"
+    }
+  ]
+}

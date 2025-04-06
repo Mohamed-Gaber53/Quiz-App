@@ -1,0 +1,21 @@
+{
+  "title": "HTML Quiz",
+  "description": "Test your HTML knowledge",
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "answers": [
+        "Hyper Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Hyper Text Makeup Language"
+      ],
+      "correct": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Which tag is used to create a hyperlink?",
+      "answers": ["<link>", "<a>", "<href>", "<hyperlink>"],
+      "correct": "<a>"
+    }
+  ]
+}

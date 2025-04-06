@@ -1,0 +1,21 @@
+{
+  "title": "CSS Quiz",
+  "description": "Test your CSS knowledge",
+  "questions": [
+    {
+      "question": "What does CSS stand for?",
+      "answers": [
+        "Creative Style Sheets",
+        "Cascading Style Sheets",
+        "Computer Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "correct": "Cascading Style Sheets"
+    },
+    {
+      "question": "Which property is used to change the background color?",
+      "answers": ["color", "bgcolor", "background-color", "bg-color"],
+      "correct": "background-color"
+    }
+  ]
+}
